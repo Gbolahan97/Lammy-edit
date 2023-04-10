@@ -101,3 +101,49 @@ article .texts .detail{
 .texts h2{
 	text-align: center;
 }
+.divider{
+	height: 5px;
+	background-color: white;
+	border-radius: 5px;
+	width: 70%;
+	margin-left: 20%;
+}
+.abuad{
+	margin-top: 20px;
+	width: 90%;
+	height: 200px;
+	background-color: white;
+	margin-left: 8%;
+	border-radius: 5px; 
+}
+.abuad .ab-header{
+	display: flex;
+	justify-content: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.abuad .ab-header h1{
+	font-size: 1rem;
+}
+.abuad .ab-header p{
+	font-size: 1rem;
+	margin-left: 10px;
+}
+.abuad .img{
+	background-color: rgb(203, 199, 199);
+	margin-left: 5px;
+	margin-right: 5px;
+	height: 150px;
+}
+.abuad .img .img2{
+	display: flex;
+	justify-content: center;
+	padding-top: 6%;
+}
+.abuad .img img{
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	border: 6px solid rgb(150, 150, 150);
+	
+}
